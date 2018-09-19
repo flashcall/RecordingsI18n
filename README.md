@@ -20,6 +20,6 @@ Creating a new localization involves creating a new folder (copy en\_US). You ca
 Sonata Recordings is a powerful software to automatize the maintenance of your recordings: Delete Old Recordings, Delete Recordings with Short Duration, Convert Recordings to MP3 to save HDD space. Also, with the Sonata Recordings is possible to compress and download your recordings, add notes, add flags and much more.
 
 ### Useful Links ###
-[VitalPBX Store](https://store.vitalpbx.org/)
-[VitalPBX](https://vitalpbx.org)
-[Issues Tracker](http://issues.vitalpbx.org)
+1. [VitalPBX Store](https://store.vitalpbx.org/)
+2. [VitalPBX](https://vitalpbx.org)
+3. [Issues Tracker](http://issues.vitalpbx.org)
