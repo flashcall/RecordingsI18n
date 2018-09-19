@@ -1,0 +1,4 @@
+menu.teams = Teams
+teams.flag_profile = Flag Profile
+teams.flag_profile.title = Team's flags profile
+teams.description.title = Team's description

@@ -1,0 +1,12 @@
+menu.extensions = Extensions
+extensions.configured = Configured
+extensions.lic.limit = You have reached your license limit of %s extensions. To purchase a license for additional extensions please contact your dealer.
+extensions.ext_name = Extension Name
+extensions.ext_name.title = Extension Name
+extensions.team.title = Extension's team
+extensions.warning = Warning!
+extensions.warning.deleted = Looks like this extension was deleted from your PBX system.
+extensions.out_rec = Outgoing Recording
+extensions.in_rec = Incoming Recording
+extensions.loc_rec = Internal Recording
+extensions.rec.title = Record :type calls. If you want change this parameter, you must edit this extension at your PBX

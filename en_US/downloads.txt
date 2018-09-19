@@ -1,0 +1,9 @@
+downloads = Downloads
+menu.downloads = {:downloads:}
+downloads.datetime = Date & Time
+downloads.size = Size
+downloads.status = Status
+downloads.legend = Requested Downloads
+downloads.ready = Ready
+downloads.pending = Pending
+downloads.cannot_delete = Cannot delete the following file: :file
