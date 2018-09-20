@@ -2,7 +2,7 @@ menu.maintenance = Maintenance
 maintenance.move.error = Move After Convert Directory is required
 maintenance.move_ftp.error = FTP Configuration is required. (All fields are required.
 maintenance.no_ftp_settings = No FTP configurations stored
-maintenance.no_upload_path = Upload Path does'nt exist
+maintenance.no_upload_path = Upload Path doesn't exist
 maintenance.url_unreachable = Public URL is unreachable
 maintenance.cannot_login = Login Incorrect
 maintenance.successful_connection = Successfully connected
@@ -30,7 +30,7 @@ maintenance.ftp_password = FTP Password
 maintenance.ftp_password.title = Password for access to FTP Server.
 maintenance.public_url = Public URL
 maintenance.public_url.title = Public URL to play the Recordings. You must configure this url before move the recordings.
-This url must be reachable via browser, i.e, %s
+	This url must be reachable via browser, i.e, %s
 maintenance.ftp_test_conf = Test Configuration
 maintenance.ftp_test = Test
 maintenance.move_to = Move To

@@ -1,5 +1,5 @@
 menu.search_calls = Search Calls
-validation.no_agent_extension = This agent does'nt have a assigned extension
+validation.no_agent_extension = This agent doesn't have a assigned extension
 search_calls.today = Today
 search_calls.yesterday = Yesterday
 search_calls.last_hour = Last Hour
@@ -19,7 +19,6 @@ search_calls.date.to = To
 search_calls.n_days = N Days
 search_calls.n_days.title = Specific last days for search
 search_calls.reference.title = Search by reference
-search_calls.extensions.title = Choose Extensions to search in calls
 search_calls.extensions.title = Choose Extensions to search in calls
 search_calls.notes.title = Search by notes if contain this word key
 search_calls.destination = Destination

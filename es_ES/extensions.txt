@@ -1,0 +1,12 @@
+menu.extensions = Extensiones
+extensions.configured = Configurada
+extensions.lic.limit = Has alcanzado el límite de tu licencia de %s extensiones. Para comprar una licencia para extensiones adicionales, contacte a su distribuidor.
+extensions.ext_name = Nombre de la Extensión
+extensions.ext_name.title = Nombre de la Extensión
+extensions.team.title = Equipo de Extensión
+extensions.warning = ¡Advertencia!
+extensions.warning.deleted = Parece que esta extensión se eliminó de su sistema PBX.
+extensions.out_rec = Grabación Saliente
+extensions.in_rec = Grabación Entrante
+extensions.loc_rec = Grabación Interna
+extensions.rec.title = Grabar :type llamadas. Si desea cambiar este parámetro, debe editar esta extensión en su PBX

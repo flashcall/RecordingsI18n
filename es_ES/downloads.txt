@@ -1,0 +1,9 @@
+downloads = Descargas
+menu.downloads = {:downloads:}
+downloads.datetime = Fecha y Hora
+downloads.size = Tamaño
+downloads.status = Estado
+downloads.legend = Descargas Solicitadas
+downloads.ready = Listo
+downloads.pending = Pendiente
+downloads.cannot_delete = No se puede eliminar el siguiente archivo: :file

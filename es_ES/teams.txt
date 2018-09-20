@@ -1,0 +1,4 @@
+menu.teams = Equipos
+teams.flag_profile = Perfil de la Bandera
+teams.flag_profile.title = Perfil de Banderas del Equipo
+teams.description.title = Descripción del Equipo
