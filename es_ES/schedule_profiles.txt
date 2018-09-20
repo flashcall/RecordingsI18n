@@ -47,8 +47,8 @@ sch_profiles.qtpl.every_weekday = Todos los días de la semana (1-5)
 sch_profiles.qtpl.every_weekend = Cada fin de semana (6,0)
 sch_profiles.qtpl.specific_days = Todos los lunes, miércoles y viernes (1,3,5)
 sch_profiles.qtpl.specific_days_2 = Todos los martes y jueves (2,4)
-sch_profiles.tpl.on_sunday = A las 00:00 del domingo (0 0 * * 0)
-sch_profiles.tpl.on_saturday = A las 00:00 el sábado (0 0 * * 6)
+sch_profiles.tpl.on_sunday = A las 12:00 a.m de cada domingo (0 0 * * 0)
+sch_profiles.tpl.on_saturday = A las 12:00 a.m de cada sábado (0 0 * * 6)
 sch_profiles.select_sch = -- Seleccione un Horario --
 
 
