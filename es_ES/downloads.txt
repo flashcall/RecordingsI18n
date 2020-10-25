@@ -1,6 +1,6 @@
 downloads = Descargas
 menu.downloads = {:downloads:}
-downloads.datetime = Fecha y Hora
+downloads.datetime = Fecha & Hora
 downloads.size = Tamaño
 downloads.status = Estado
 downloads.legend = Descargas Solicitadas

@@ -21,7 +21,5 @@ filters.less_than = Less Than
 filters.equals_to = Equals To
 filters.stars = :count start|:count stars
 filters.condition = Condition
-filters.mode = Mode
-filters.value = Value
 filters.or = OR
 filters.and = AND

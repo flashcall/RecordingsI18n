@@ -1,3 +1,4 @@
 license.notification.title = License Activation
 license.cannot_create_lic = Impossible create the license
-license.not_supported_os = Impossible register this serial, not supported on this OS
+license.not_supported_os = Impossible register this License, not supported on this OS
+license.by_server = Licensed by Server

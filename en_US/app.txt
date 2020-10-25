@@ -89,3 +89,7 @@ app.validations.db_unique.js = Please enter a unique value
 app.validations.default = %s has an error.
 app.validations.default.js = Please enter valid data
 app.validations.no_source = You must define the source to validate
+app.pt.administrator = Administrator
+app.pt.agent = Agent
+app.pt.manager = Manager
+app.pt.supervisor = Supervisor

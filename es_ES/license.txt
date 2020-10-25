@@ -1,3 +1,4 @@
 license.notification.title = Activación de Licencia
-license.cannot_create_lic = Imposible crear la Licencia
-license.not_supported_os = Imposible registrar esta serie, no compatible con este SO
+license.cannot_create_lic = Imposible crear la licencia
+license.not_supported_os = Imposible registrar esta Licencia, no compatible con este sistema operativo
+license.by_server = Licenciado por el servidor
