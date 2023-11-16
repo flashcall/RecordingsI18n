@@ -1,0 +1,7 @@
+menu.synchronization = Synchronisation
+sync.no_extensions = Choisissez au moins une extension
+sync.license.limit = Le nombre de vos extensions sélectionnées a atteint la limite. Pour acheter une licence pour des extensions supplémentaires, veuillez contacter votre revendeur.
+sync.synchronize = Synchroniser
+sync.resynchronize = Résynchroniser
+sync.team.title = Choisissez une équipe.
+sync.extensions.title = Choisissez des extensions pour la recherche dans les appels

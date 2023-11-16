@@ -1,0 +1,10 @@
+recordings.action.add_note = Voir et ajouter des notes
+recordings.action.add_flags = Ajouter des drapeaux
+recordings.action.add_reference = Ajouter un numéro de référence
+recordings.action.play_recording = Lire l'enregistrement
+recordings.action.delete_recording = Supprimer l'enregistrement
+recordings.type.1 = Interne
+recordings.type.2 = Entrant
+recordings.type.3 = Sortant
+recordings.type.4 = Transit
+recordings.type.5 = Inconnu

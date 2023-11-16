@@ -1,0 +1,12 @@
+menu.extensions = Extensions
+extensions.configured = Configuré
+extensions.lic.limit = Vous avez atteint votre limite de licence de %s extensions. Pour acheter une licence pour des extensions supplémentaires, veuillez contacter votre revendeur.
+extensions.ext_name = Nom de l'extension
+extensions.ext_name.title = Nom de l'extension
+extensions.team.title = Équipe de l'extension
+extensions.warning = Attention !
+extensions.warning.deleted = Il semble que cette extension ait été supprimée de votre système PBX.
+extensions.out_rec = Enregistrement sortant
+extensions.in_rec = Enregistrement entrant
+extensions.loc_rec = Enregistrement interne
+extensions.rec.title = Enregistrer les appels :type. Si vous souhaitez changer ce paramètre, vous devez modifier cette extension dans votre PBX

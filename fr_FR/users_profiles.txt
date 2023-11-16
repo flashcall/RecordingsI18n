@@ -1,0 +1,15 @@
+users_profiles = Profils Utilisateurs
+menu.users_profiles = {:users_profiles:}
+users_profiles.name.title = Nom pour ce profil utilisateur
+users_profiles.profile_type = Type
+users_profiles.profile_type.title = Définit le type de profil. Dans le dialogue utilisateur, en fonction du type d'utilisateur sélectionné, la liste déroulante de profil sera remplie avec des profils ayant le même type que le type d'utilisateur.
+users_profiles.permissions = Permissions
+users_profiles.permissions.title = Permet de sélectionner les permissions ou actions que l'utilisateur a
+users_profiles.add_notes = Ajouter des notes
+users_profiles.add_flags = Ajouter des drapeaux
+users_profiles.add_ref_number = Ajouter des références
+users_profiles.allow_listen = Écouter les enregistrements
+users_profiles.create_reports = Créer des rapports
+users_profiles.allow_delete = Supprimer des enregistrements
+users_profiles.unselected_modules = Modules non sélectionnés
+users_profiles.selected_modules = Modules sélectionnés

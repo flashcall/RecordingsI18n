@@ -1,0 +1,9 @@
+downloads = Téléchargements
+menu.downloads = {:downloads:}
+downloads.datetime = Date & Heure
+downloads.size = Taille
+downloads.status = Statut
+downloads.legend = Téléchargements demandés
+downloads.ready = Prêt
+downloads.pending = En attente
+downloads.cannot_delete = Impossible de supprimer le fichier suivant : :file

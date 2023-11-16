@@ -1,0 +1,4 @@
+menu.teams = Équipes
+teams.flag_profile = Profil de Drapeau
+teams.flag_profile.title = Profil de drapeaux de l'équipe
+teams.description.title = Description de l'équipe

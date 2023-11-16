@@ -1,0 +1,4 @@
+license.notification.title = Activation de Licence
+license.cannot_create_lic = Impossible de créer la licence
+license.not_supported_os = Impossible d'enregistrer cette Licence, non prise en charge sur ce système d'exploitation
+license.by_server = Licence par Serveur
